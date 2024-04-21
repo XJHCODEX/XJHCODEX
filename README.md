@@ -4,52 +4,21 @@ I'm a 23-year-old developer based in New York, passionate about software enginee
 
 - 🌐 [Website](https://xjhcodex.github.io): Learn more about me.
 
-### Programming Languages
-- Python
-- Java
-- SQL
-- Linux
-- BASH
+**Programming Languages:** `Python` `Java` `SQL` `Linux` `BASH`
 
 ## 📦 Toolbox
-### Frontend Development
-- React
-- Next.js
-- TypeScript
-- Tailwind
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
 
-### Backend Development
-- Nest.js
-- GraphQL
-- Firebase
+**Backend Development:** `Nest.js` `GraphQL` `Firebase`
 
-### Data Analysis and Management
-- Pandas
-- NumPy
+**Data Analysis and Management:** `Pandas` `Numpy`
 
-### Version Control
-- Git
-- GitLab
-- Bitbucket
+**Version Control:** `Git` `Gitlab` `Bitbucket`
 
-### Testing
-- Postman
-- Insomnia
+**Testing:** `Postman` `Insomnia`
 
-### Other Skills
-- Microservices
-- Docker
-- Terraform
-- CI/CD Pipelines
-- Jenkins
-- Jira
-- TensorFlow 2.0
-- Microsoft Office
-- Jupyter Notebook
-- Scikit-learn
-- Matplotlib
-- Salesforce
-- Agile Methodologies
+**Other Skills:** `Microservices` `Docker` `Terraform` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Microsoft Office` `Jupyter Notebook` `Scikit-learn`
+`Matplotlib` `Salesforce` `Agile Methodologies`
 
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/jeremy-hernandez-1637ab229/).
