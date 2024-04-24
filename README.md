@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy! 👋🏽
 
-I'm a 23-year-old developer based in New York, passionate about software engineering and devops.
+I'm a 23-year-old developer based in New York, passionate about software development and devops.
 
 - 🌐 [Website](https://xjhcodex.github.io): Learn more about me.
 
