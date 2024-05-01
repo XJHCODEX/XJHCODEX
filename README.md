@@ -17,8 +17,8 @@ I'm a 23-year-old developer based in New York, passionate about software develop
 
 **Testing:** `Postman` `Insomnia`
 
-**Other Skills:** `Microservices` `Docker` `Terraform` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Microsoft Office` `Jupyter Notebook` `Scikit-learn`
-`Matplotlib` `Salesforce` `Agile Methodologies`
+**Other Skills:** `Microservices` `Docker` `Terraform` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Jupyter Notebook` `Scikit-learn`
+`Matplotlib` `Agile Methodologies`
 
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/jeremy-hernandez-1637ab229/).
