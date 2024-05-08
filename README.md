@@ -9,7 +9,7 @@ I'm a 23-year-old developer based in New York, passionate about software develop
 ## 📦 Toolbox
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase`
+**Backend Development:** `Nest.js` `GraphQL`
 
 **Data Analysis and Management:** `Pandas` `Numpy`
 
