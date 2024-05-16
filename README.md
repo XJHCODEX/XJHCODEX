@@ -1,4 +1,10 @@
-# Hi, I'm Jeremy! 👋🏽
+<br>
+<br>
+<div align="center">
+<img width=550 src="assets/neon-logo.gif" alt="XJHCODEX lettering">
+<br>
+<br>
+</div>
 
 I'm a 23-year-old developer based in New York, passionate about software development and devops.
 
