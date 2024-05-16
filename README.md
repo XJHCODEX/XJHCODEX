@@ -51,27 +51,27 @@ I'm a 23-year-old developer based in New York, passionate about software develop
    <a href="https://github.com/XJHCODEX/SakeBot">
         <picture>
             <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=SakeBot&theme=github_dark&description_lines_count=2"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=SakeBot&theme=github_dark&description_lines_count=3"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=SakeBot&theme=default&description_lines_count=2"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=SakeBot&theme=default&description_lines_count=3"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=SakeBot&theme=default&description_lines_count=2">
+            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=SakeBot&theme=default&description_lines_count=3">
         </picture>
     </a>
     <a href="https://github.com/XJHCODEX/Minesweeper">
         <picture>
             <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweeper&theme=github_dark&description_lines_count=3"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweeper&theme=github_dark&description_lines_count=4"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweepers&theme=default&description_lines_count=3"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweepers&theme=default&description_lines_count=4"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweeper&theme=default&description_lines_count=3">
+            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweeper&theme=default&description_lines_count=4">
         </picture>
     </a>
 </div>
