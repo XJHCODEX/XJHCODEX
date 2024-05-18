@@ -6,7 +6,7 @@
 <br>
 </div>
 
-## About me
+# About me
 
 ## <img width=130 src="assets/king.png" alt="alternative icon">
 
