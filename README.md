@@ -6,7 +6,9 @@
 <br>
 </div>
 
-## <img width=100 src="assets/king.png" alt="alternative icon"> About me
+## About me
+
+## <img width=130 src="assets/king.png" alt="alternative icon">
 
 I'm a 23-year-old developer based in New York, passionate about software development and devops.
 
