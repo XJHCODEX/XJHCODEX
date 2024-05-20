@@ -45,6 +45,14 @@ I'm a 23-year-old developer based in New York, passionate about software develop
 **Other Skills:** `Microservices` `Docker` `Terraform` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Jupyter Notebook` `Scikit-learn`
 `Matplotlib` `Agile Methodologies`
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=XJHCODEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XJHCODEX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XJHCODEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## Pinned
 
 <div style="box-sizing:border-box; display: flex;">
