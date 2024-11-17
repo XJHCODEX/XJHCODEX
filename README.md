@@ -8,7 +8,7 @@
 
 ## <img width=150 src="assets/king.png" alt="alternative icon"> About me
 
-I'm a 24-year-old developer based in New York, passionate about data analytics.
+I'm a 24-year-old developer based in New York.
 
 - 🌐 [Website](https://xjhcodex.github.io): Learn more about me.
 
