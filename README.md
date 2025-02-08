@@ -19,7 +19,6 @@ I'm a 24-year-old developer based in New York.
  <!--Java-->
  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;-->
  <!--SQL-->
- <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg"  title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
  <!--HTML-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
