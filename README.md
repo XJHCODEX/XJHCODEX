@@ -6,9 +6,7 @@
 <br>
 </div>
 
-## <img width=150 src="assets/king.png" alt="alternative icon"> About me
-
-I'm a 24-year-old developer based in New York.
+I'm a 24-year-old developer based in Austin, TX.
 
 - 🌐 [Website](https://xjhcodex.github.io): Learn more about me.
 
