@@ -19,7 +19,7 @@ I'm a 24-year-old developer based in New York.
  <!--Java-->
  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;-->
  <!--SQL-->
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg"  title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
  <!--HTML-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -32,18 +32,17 @@ I'm a 24-year-old developer based in New York.
 </div>
 
 ## 📦 Toolbox
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
+**Frontend Development:** `React` `Next.js` `JavaScript` `HTML` `CSS`
 
-**Backend Development:** `Nest.js` `GraphQL` `Django` 
+**Backend Development:** `Django` `Flask`
 
-**Data Analysis and Management:** `Pandas` `Numpy`
+**Data Analysis and Management:** `Pandas` `Numpy` `TensorFlow` `Scikit-learn` `Jupyter Notebook`
 
 **Version Control:** `Git` `Gitlab` `Bitbucket`
 
-**Testing:** `Postman` `Insomnia`
+**Testing:** `Postman`
 
-**Other Skills:** `Microservices` `Docker` `Terraform` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Jupyter Notebook` `Scikit-learn`
-`Matplotlib` `Agile Methodologies`
+**Other Skills:** `Docker` `Terraform` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Jupyter Notebook`
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XJHCODEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
