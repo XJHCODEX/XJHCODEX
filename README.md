@@ -6,8 +6,6 @@
 <br>
 </div>
 
-I'm a 24-year-old developer based in Austin, TX.
-
 - 🌐 [Website](https://xjhcodex.github.io): Learn more about me.
 
 ## Languages, Tools and OSes
