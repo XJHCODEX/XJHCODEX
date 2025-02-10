@@ -1,7 +1,7 @@
 <br>
 <br>
 <div align="center">
-<img width=550 src="assets/gray-logo.gif" alt="XJHCODEX lettering">
+<img width=550 src="assets/black-white-logo.gif" alt="XJHCODEX lettering">
 <br>
 <br>
 </div>
