@@ -6,8 +6,6 @@
 <br>
 </div>
 
-- 🌐 [Website](https://xjhcodex.github.io): Learn more about me.
-
 ## Languages, Tools and OSes
 <div>
  <!--Python-->
@@ -90,3 +88,4 @@
 
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/jeremy-hernandez-1637ab229/).
+- 🌐 [Website](https://xjhcodex.github.io): Learn more about me.
