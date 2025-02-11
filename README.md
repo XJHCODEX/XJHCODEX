@@ -35,7 +35,7 @@
 
 **Testing:** `Postman`
 
-**Other Skills:** `Docker` `Terraform` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Jupyter Notebook`
+**Other Skills:** `Docker` `Terraform` `Ansible` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Jupyter Notebook`
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XJHCODEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
