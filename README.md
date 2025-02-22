@@ -71,17 +71,17 @@
             <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=ChatBox&theme=default&description_lines_count=1">
         </picture>
     </a>
-    <a href="https://github.com/XJHCODEX/Minesweeper">
+    <a href="https://github.com/XJHCODEX/ZenVault">
         <picture>
             <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweeper&theme=github_dark&description_lines_count=2"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=ZenVault&theme=github_dark&description_lines_count=2"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweeper&theme=default&description_lines_count=3"
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=ZenVault&theme=default&description_lines_count=3"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=Minesweeper&theme=default&description_lines_count=3">
+            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=ZenVault&theme=default&description_lines_count=3">
         </picture>
     </a>
 </div>
