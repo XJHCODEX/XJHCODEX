@@ -2,7 +2,7 @@
 <br>
 <div align="center"> 
 <img width=550 src="assets/black-white-logo.gif" alt="XJHCODEX lettering">
-<br> 
+<br>  
 <br>
 </div>
 
