@@ -37,10 +37,9 @@
 
 **Other Skills:** `Docker` `Terraform` `Ansible` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Jupyter Notebook`
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XJHCODEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=XJHCODEX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XJHCODEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xjhcodex&show_icons=true&locale=en" alt="xjhcodex" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjhcodex&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 
 ## Pinned
 
