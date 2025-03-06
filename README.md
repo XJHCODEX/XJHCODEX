@@ -58,6 +58,19 @@
            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=ZenVault&theme=default&description_lines_count=1">
        </picture>
    </a>
+    <a href="https://github.com/XJHCODEX/text-to-image-generator">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=text-to-image-generator&theme=github_dark&description_lines_count=1"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=text-to-image-generator&theme=default&description_lines_count=1"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=XJHCODEX&repo=text-to-image-generator&theme=default&description_lines_count=1">
+        </picture>
+    </a>
    <a href="https://github.com/XJHCODEX/SakeBot">
         <picture>
             <source
