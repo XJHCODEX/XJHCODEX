@@ -4,7 +4,7 @@
 <img width=550 src="assets/black-white-logo.gif" alt="XJHCODEX lettering">
 <br>   
 <br> 
-</div> 
+</div>
 
 ## Languages, Tools and OSes  
 <div>
