@@ -38,6 +38,7 @@
 **Other Skills:** `Docker` `Terraform` `Ansible` `CI/CD Pipeline` `Jenkins` `Jira` `TensorFlow 2.0` `Jupyter Notebook`
 
 &nbsp;![](https://komarev.com/ghpvc/?username=xjhcodex&color=brightgreen)
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjhcodex&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
